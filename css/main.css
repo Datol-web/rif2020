@@ -34,7 +34,7 @@ h5 {
   font-weight: 700; }
 
 .btn {
-  background-color: #e84545;
+  background-color: rgb(255 125 6);
   color: #fff;
   font-size: 13px;
   font-weight: 600;
@@ -106,7 +106,7 @@ ul li {
     float: left; }
 
 #header.fixed {
-  background-color: #292c47; }
+  background-color: rgb(0 100 211); }
   #header.fixed .header-content {
     border-bottom: 0;
     padding: 25px 0; }
@@ -440,10 +440,10 @@ ul li {
 .footer {
   text-align: center; }
   .footer-top {
-    background-color: #3a3e64;
+    background-color: rgb(0 100 211);
     padding-top: 50px; }
   .footer-bottom {
-    background-color: #313454;
+    background-color: rgb(0 100 211);
     padding: 20px 0; }
   .footer .footer-col {
     margin-bottom: 80px; }
@@ -834,8 +834,8 @@ ul li {
     font-weight: 600;
     text-align: center;
     padding: 0 0 20px 0;
-    background-color: rgb(247 205 205);
-    color: rgb(58 58 58);
+    background-color: rgb(0 100 211 / 52%);
+    color: rgb(255 255 255);
     padding-top: 25px;
 }
 
@@ -863,4 +863,28 @@ ul li {
   width: 300px;
   height: 300px;
   object-fit: cover;
+}
+
+.logo p {
+  color: rgb(255 255 255);
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 15px 0px 0px 22px;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+#header .logo {
+  float: left;
+  display: flex;
+  align-items: center;
+}
+
+.logo p {
+  color: rgb(255 255 255);
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 15px 0px 0px 22px;
+  margin: 0;
+  letter-spacing: 1px;
 }
