@@ -1,22 +1,11 @@
-# ActiveBox
+# Цифровой прорыв
 
-One Page Multi Purpose Website Template created by [Kamal Chaneman](http://kamalchaneman.com/)
-
-[Demo](http://kamalchaneman.com/activebox/)
-
-## License
-
-Use it freely but please do not republish, distribute or sell "as-is".
-
-## Credits 
+Проект вы можете посмотреть тут http://rif2020.forkweb.ru/
 
 ### Bootstrap
 
 [Bootstrap](http://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
-### FancyBox
-
-[FancyBox](http://fancyapps.com/fancybox/) by fancyApps. Licensed under [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/)
 
 ### FlexSlider
 
